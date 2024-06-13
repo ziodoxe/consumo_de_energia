@@ -1,7 +1,13 @@
-{{cookiecutter.project_name}}
+Análisis de Consumo de Energía
 ==============================
 
-{{cookiecutter.description}}
+## Descripción
+
+Este proyecto se centra en el análisis y predicción del consumo de energía utilizando diversas técnicas de ciencia de datos y aprendizaje automático. El objetivo es identificar patrones en los datos de consumo de energía y desarrollar modelos predictivos para mejorar la eficiencia energética.
+
+## Estructura del Proyecto
+
+La estructura del proyecto sigue la plantilla Cookiecutter Data Science y es la siguiente:
 
 Project Organization
 ------------
